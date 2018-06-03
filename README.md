@@ -6,7 +6,7 @@ A OpenWRT realtime per-IP bandwidth Monitor
  - Clone Git repository
 
  - Copy public_html/cgi-bin/wtBRMon in /[Web Root]/cgi-bin/ i.e. /www/cgi-bin/
- - Copy public_html/www in your web server root folder i.e. /www/wtBRMon/
+ - Copy public_html/www in your web server root folder i.e. /www/bandwidth/
 
  - chmod +x /[Web Root]/cgi-bin/wtBRMon
 
