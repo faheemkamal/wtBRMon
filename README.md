@@ -4,11 +4,10 @@ A OpenWRT realtime per-IP bandwidth Monitor
 
 ## Installation
  - Clone Git repository
-
  - Copy public_html/cgi-bin/wtBRMon in /[Web Root]/cgi-bin/ i.e. /www/cgi-bin/
  - Copy public_html/www in your web server root folder i.e. /www/bandwidth/
-
  - chmod +x /[Web Root]/cgi-bin/wtBRMon
+ - Install luci-app-qos from System/Software
 
 ## Launch
  - **Edit /[Web Root]/cgi-bin/wtBRMon and check configuration vars**
